@@ -1,0 +1,14 @@
+Package: enigma2-plugin-extensions-channelupdater
+Version: 1.8
+Section: base
+Architecture: all
+MD5Sum: e58c854cfbef3bb804fe309d71cdec23
+Size: 4748
+Filename: enigma2-plugin-extensions-channelupdater_1.8_all.ipk
+Description: Sender aktualisieren inkl Picons
+Maintainer: micha
+Priority: optional
+Source: 
+Homepage: 
+
+
